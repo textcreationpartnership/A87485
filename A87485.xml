@@ -1,0 +1,405 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nineteen arguments, proving circumcision no seal of the covenant of grace. Whereunto, is annexed; the unlawfulnesse of infants baptisme upon that ground. / Written by R.J.</title>
+            <author>R. J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87485</idno>
+            <idno type="STC">Wing J31</idno>
+            <idno type="STC">Thomason E315_16</idno>
+            <idno type="STC">ESTC R200517</idno>
+            <idno type="EEBO-CITATION">99861239</idno>
+            <idno type="PROQUEST">99861239</idno>
+            <idno type="VID">158964</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158964)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E315[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nineteen arguments, proving circumcision no seal of the covenant of grace. Whereunto, is annexed; the unlawfulnesse of infants baptisme upon that ground. / Written by R.J.</title>
+                  <author>R. J.</author>
+                  <author>C. B.</author>
+                  <author>Blackwood, Christopher.</author>
+               </titleStmt>
+               <extent>[4], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed by the editor "C.B." A MS. inscription suggests that C.B. = Christopher Blackwood. Further evidence for this attribution lies in the fact that bound directly after Thomason's copy is a copy of Blackwood's "Apostolicall baptisme" (Wing B3096), the title page of which uses the same border and rules as "Nineteen arguments"; both items were received by Thomason on the same day.</note>
+                  <note>Annotation on Thomason copy: "Jan: 13th [i.e. 1646]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Infant baptism --  Early works to 1800.</term>
+               <term>Circumcision --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158964:1" rendition="simple:additions"/>
+            <p>NINETEEN ARGUMENTS, PROVING CIRCUMCISION NO <hi>Seal of the Covenant of Grace.</hi>
+            </p>
+            <p>WHEREUNTO, Is annexed; The unlawfulneſſe of Infants Baptiſme upon that ground.</p>
+            <p>
+               <hi>Written by</hi> R. J.</p>
+            <q>
+               <bibl>GAL. 5.2, 3.6.</bibl>
+               <p>Behold, I Paul ſay unto you, that if ye be circumciſed, Chriſt ſhall pro<g ref="char:EOLhyphen"/>fit you nothing.</p>
+               <p>For I teſtifie again to every man that is Circumciſed, that he is a debter to do the whole Law.</p>
+               <p>For in Ieſus Chriſt, neither circumciſion availeth any thing, nor uncir<g ref="char:EOLhyphen"/>cumciſion, but Faith which worketh by love.</p>
+            </q>
+            <q>
+               <bibl>ROM. 2.26, 27.</bibl>
+               <p>Therefore if the uncircumciſion keep the righteouſneſſe of the Law, ſhall not his uncircumciſion be counted for Circumciſion?</p>
+               <p>And ſhall not uncircumciſion which is by nature, if it fulfill the Law, judge thee, who by the letter, and circumciſion doeſt tranſgreſſe the Law?</p>
+            </q>
+            <p>LONDON, Printed in the Year, 1645.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:158964:2"/>
+            <pb facs="tcp:158964:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Curteous Reader;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Authour of this Treatiſe (Mr. <hi>R. I.</hi>) being beyond Seas, and ſome friends of his, and the Truth, deeming theſe Argu<g ref="char:EOLhyphen"/>ments of his to be ſolid, and con<g ref="char:EOLhyphen"/>ducing to propagate the Truth, the Authour being known to be learned, J have adventured (though without his knowledge) to make them publike. The Copie being Tranſcribed by a bad Scribe, ſo that there are ſundry miſ-ſpellings and over<g ref="char:EOLhyphen"/>ſights.</p>
+            <p>
+               <pb facs="tcp:158964:3"/>J ſhall deſire thee with a favourable eye to bear with. Jf delay might not have brought in danger, J ſhould have ſent forth this, and the other Treatiſes in more exactneſſe; But thou must re<g ref="char:EOLhyphen"/>member we come out of <hi>Egypt</hi> in haſte.</p>
+            <closer>
+               <salute>Farewell.</salute>
+               <signed>Thine C. B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:158964:3"/>
+            <head>
+               <hi>Nineteen Arguments,</hi> Proving Circumciſion no Seal of the Cove<g ref="char:EOLhyphen"/>nant of GRACE.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Ecauſe that of CHAMIERUS is acknowledged, <hi>Sacramentorum nulla neceſſitas niſi ex iuſtitutione Divina;</hi> There is no neceſſitie of the Sacrament, but by Divine Inſtitution: Some therefore obſer<g ref="char:EOLhyphen"/>ving how Chriſts inſtitution of Baptiſme, Matth. 28. Mark. 16. yeildeth no foundation for the Dip<g ref="char:EOLhyphen"/>ping of Infants, but imployeth an abſolute prohi<g ref="char:EOLhyphen"/>bition of any ſuch practice; whereby the Ordinance is prophaned in a prodigall abuſe, without, and againſt the will of the Teſtatour; and have ceaſed upon that Law of Circumci<g ref="char:EOLhyphen"/>ſion, Ge<g ref="char:cmbAbbrStroke">̄</g>. 17.10.11 (which is ſtiled elſewhere in the Law of <hi>Moſes,</hi> Joh. 7.23.) as the beſt foundation for beſprinkling of Babes, in an Apiſh imitation of that Goſpel-dipping, which was inſtituted by our Saviour, for the more effectuall ingrafting of Believers into his own death: And the rather do they faſten upon it; Becauſe finding it to be a ſeal of that Promiſe which was made to <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> and his ſeed, and denying that Promiſe to be a Covenant of Grace and remiſſion of ſins, they conclude it belongs in like manner, to all Believers of the Gentiles, and to their children; who are to have the ſame Seal unto them by Baptiſme (as they call it) which came in the Rome of Circumciſion, as they contend. To this purpoſe, <hi>Blake</hi> pag. 14. <hi>viz.</hi> Upon this ground, In<g ref="char:EOLhyphen"/>fants under the Law were to be circumciſed, and upon the ſame ground, are Infants now to be baptized, &amp;c. Again, what can Baptiſme ſigne and ſeal, but the righteouſneſſe of Faith? This Circumciſion did ſigne and ſeal to <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> and his poſteritie, &amp;c.</p>
+            <p>
+               <pb n="2" facs="tcp:158964:4"/>So CHIDLEY. Baptiſme being come in the room, &amp;c. Sealeth up one and the ſame Covenant of life: And therefore as Circumciſion, &amp;c. ſo Baptiſm is to be adminiſtred upon Infants of Believers. <hi>Chidley</hi> pag. 39. If therefore it be proved that Circumciſion did not ſeal the promiſe or Covenant of Grace, and Remiſſion of ſins; then this their foundation is very falſe and phanta<g ref="char:EOLhyphen"/>ſticall.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argu∣ment. </seg>1</label> That Seal or Sacrament (as they call it) which by its inſtitution and the na<g ref="char:EOLhyphen"/>ture of it, was not to be adminiſtred to ſome within the Covenant of Grace, and yet neceſſarily to be adminiſtred unto others, who were known not to be within the covenant of Grace; That cannot be the Seal of the covenant of Grace, and Remiſſion of ſins: But this Sacrament of Circumciſion was ſuch, &amp;c. <hi>viz.</hi> Not to be adminiſtred to ſome evidently within the Covenant of Grace, as to LOT, 2 Pet. 2.7, 8. And yet neceſſarily to be adminiſtred to others who were not within the covenant of Grace, and known to be ſo, as to <hi>Iſhmael,</hi> &amp;c. Joh. 5.6, 7, 8. Jer. 7.25, 26. Therefore Circumciſion can<g ref="char:EOLhyphen"/>not be the Seal of the Covenant of Grace, and Remiſſion of ſins.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>2</label> That Seal or Covenant which is in the fleſh, and belongeth and muſt needs be adminiſtred to all the ſeed of the fleſh; whether they be Infants, or men of age, holy, or apparantly prophane, knowing, or ignorant, that cannot be a Seal of Grace and Remiſſion of ſins, which belongeth and is to be adminiſtred to Be<g ref="char:EOLhyphen"/>lievers onely, Acts 10.43. with Acts 8.37. If thou believeſt with all thine heart, it is lawfull for thee to be dipped, elſe not: But this Seal of Circum<g ref="char:EOLhyphen"/>ciſion is altogether ſuch, Gen. 17.10, 11, 12, 13, 14. with Joh. 5. 6, 7. And therefore Circumciſion cannot be the Seal of Grace and Remiſſion of ſins, which belongeth and is onely to be adminiſtred to Believers. Gal. 38.9. Gen. 12.3. Acts 10.43. with Acts 8.37.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>3</label> That which bindeth unto the Law, and becommeth altogether unprofita<g ref="char:EOLhyphen"/>ble in a man, not keeping of the Law, that can never be the Seal of the ſame Covenant with Baptiſme; which confirmeth unto Believers, their juſtification from all ſinne, Acts 22.16. By a myſteriall burying of them into the death of Chriſt, Rom. 6.4, 6, 7. with Col. 2.12, 13. According to the tenour of the New Covenant, Heb. 8.12. Jer. 31. Whereby Believers onely are juſtified and delivered from the Law, Acts 13.39. Rom. 7.4.6.</p>
+            <p>But Circumciſion bindeth unto the Law, Gal. 5.3. And becommeth alto<g ref="char:EOLhyphen"/>gether unprofitable in a man not keeping the Law, Rom. 2.25. Therefore Circumciſion cannot be the Seal of the ſame Covenant with Baptiſme; which apparantly diſcovereth all ſuch Obligations and conditions: As appeareth by <hi>Pauls</hi> Epiſtles, exhorting unto duty from the benefit received; but never ur<g ref="char:EOLhyphen"/>ging to the keeping of the Law, as a condition neceſſarily required; that we may hold or reap the benefit of the Covenant. The propoſition will appear
+<pb n="3" facs="tcp:158964:4"/>more cleerly, if you examine Acts 13.39. Where any Idiot may obſerve, that if Circumciſion had ſealed the ſame promiſe of Grace and Remiſſion of ſins, whereby all that believe are juſtified (as Dipping doth) then that aſſer<g ref="char:EOLhyphen"/>tion of the Apoſtle had been falſe; <hi>viz.</hi> From which ye could not be juſtified from the Law of <hi>Moſes:</hi> For ſeeing they were circumciſed by the authoritie of that Law, Joh. 7.23. It muſt needs follow (according unto theſe men) that by the true ſence and right uſe of Circumciſion, they might have been thereby juſtified, as well as by faith in that Goſpell-promiſe, which there he largely openeth, Acts 13.32, 33.38. Foraſmuch as the Righteouſneſſe of God had been revealed in both, for the ſalvation of every Believer; as <hi>Paul</hi> ſpeaketh, Rom. 1.16, 17.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg </seg>4</label> If Circumciſion had been a Seal of the ſame Covenant of Grace and remiſ<g ref="char:EOLhyphen"/>ſion of ſinnes, whereby Baptiſme is; then the Apoſtle cannot be free from the bloud of all men, Acts 20.26. No not of the Jewes or thoſe Gentiles, who were intangled, for want of a Right underſtanding in that particular. For as much as he never once declareth either to Jews or Gentils, how circumciſion was an old Seal of the ſame Covenant of Grace, which is now opened unto all, and aboliſhed only by the introduction of dipping, a new ordinance inſti<g ref="char:EOLhyphen"/>tuted by Chriſt, for to confirm the new Covenant unto believers.</p>
+            <p>But the Apoſtle would not call God to record a lie, Acts 22.26. And yet he never declareth this either to Jews or Gentiles. And therefore it can be no Seal of the Covenant of Grace and Remiſſion of ſins.</p>
+            <p>It may be, ſome jugling Artiſt, will endeavour to deny the latter part of the Aſſumption; by aſſuring the contrary by Col. 2.11, 12.</p>
+            <p>The Apoſtle doth not there ſo much as once intimate,<note place="margin">Anſwer.</note> that Circumciſion was an old Seal of the Covenant of Grace or that Baptiſme came in the Rome of it: But his ſcope is, to arm them againſt the undermining of Philoſophy, or worldly Elements, verſ. 8. Whereof Circumciſion is one, Gal. 4.3. And this he doth, by ſhewing how compleat and perfect they were in Chriſt, verſ. 9, 10. So that they needed not to run once to any rudiments of the world, for their further perfection; ſeeing they had the body and ſubſtance of all theſe ſha<g ref="char:EOLhyphen"/>dowes, by being buried by Dipping into the death of Chriſt, verſ. 12, 13, 14. 16, 17.19, 20, 21. Now what conſequence is there, to ſay; Believers being buried with Chriſt by Dipping, have the very ſubſtance of all which was in any wiſe ſignified, or repreſented by Jewiſh ſhadows; And therfore are there<g ref="char:EOLhyphen"/>by exempted from all ſuch Ordinances, concerning meat, drink, or holy<g ref="char:EOLhyphen"/>dayes, &amp;c. verſ. 14.20. <hi>Ergo,</hi> Theſe ſhadowes did ſeal the Covenant of Grace and Remiſſion of ſins, to all that were under them: Which is moſt falſe. For divers things under the Law have been ſignificant, which yet did not ſeal the Covenant of Grace to any ſoul in particular. And for Circumciſion,
+<pb n="4" facs="tcp:158964:5"/>though the Apoſtle here, verſ. 11. As the Prophet elſewhere, Jer. 4.4. In doctrine or exhortation, have uſed ſuch a ſpirituall Allegory, as alludeth to the carnall right; yet neither of them (I think) do ſpeak of the carnall right as a proper ſigne peculiarly inſtituted, to ſignifie the ſpirituall Circumciſion: And though it were declared a ſigne, that God doth circumciſe our hearts (as you ſee the Sabbath in a ſence little different, Ezek. 20.20) yet that doth not prove it a Seal of that Covenant of Grace, whereby our hearts come to be cir<g ref="char:EOLhyphen"/>cumciſed, with the Circumciſion made without hands, Jer. 31.33, 34. As Dipping is declared to be, &amp;c. But the next will make this more evident.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>5</label> If the Apoſtles in ſo divers Epiſtles, and upon ſo many occaſions, have alwaies inculcated, the enmitie of it as contrary to the Covenant of Free Grace and Remiſſion of ſins, abſolutely aſſerting the nullity of it, without any taxing of the abuſe, or any kinde of Remonſtrance concerning the ancient Right uſe, or the abolition of it, by the new Ordinance of Dipping, now inſtituted in<g ref="char:EOLhyphen"/>ſtead thereof, then certainly the Apoſtle knew it to be no Seal of the Cove<g ref="char:EOLhyphen"/>vant of Grace, nor would have any to conceit it ſo; having miniſtred nei<g ref="char:EOLhyphen"/>ther matter nor occaſion, to ſuch erroneous imaginations.</p>
+            <p>But the Apoſtle hath conſtantly inculcated it, enmity to the Covenant of Free-Grace, &amp;c. Phil. 3.2. With Gal. 5.2. With chap. 2. verſ. 3, 4. The nullity of it alſo, &amp;c. Gal. 6.15. 1 Cor. 7.19. Without any inſinuation of its ancient right uſe, &amp;c. <hi>Ergo,</hi> it was never any Seal of the Covenant of Free Grace and Remiſſion of ſins, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>6</label> That which maketh the Spirit of God, to proceed againſt the Univerſall Law of Nature, muſt needs be a forced Covenant, and no true tenent. But this opinion maketh the Spirit of God to proceed contrary to the, &amp;c. there<g ref="char:EOLhyphen"/>fore this muſt needs be a forced Covenant, no true tenent. The propoſition is proved, from Heb. 7.11. If therefore perfection were by the Leviticall Prieſt<g ref="char:EOLhyphen"/>hood, &amp;c. What needed there another Prieſt to ariſe, after the Order of <hi>Mel<g ref="char:EOLhyphen"/>chiſedech,</hi> &amp;c. Not be called after the Order of <hi>Aron;</hi> where he taketh it for granted, that in ſuch matters, even God himſelf multiplieth nothing without neceſſitie.</p>
+            <p>The Aſſumption is as evident.<note place="margin">Aſſump.</note> For if Circumciſion were a Seal of the ſame Covenant of Grace and remiſſion of ſins, to all Believers and their Infants; (which Dipping confirmeth to thoſe who rightly receive it: Then what nee<g ref="char:EOLhyphen"/>ded thoſe who had the Covenant of Grace already ſealed unto them by Cir<g ref="char:EOLhyphen"/>cumciſion, but eſpecially their Infants (as thoſe fond opinioniſts do ground<g ref="char:EOLhyphen"/>leſly affirm) be ſealed again by Dipping, or Baptizing, ſeeing the former Seal left a viſible or practicall ſigne and Character in the fleſh? Whereas the latter of Baptiſme, leaveth no impreſſion at all, but proveth unto Infants an unpro<g ref="char:EOLhyphen"/>fitable Seal, being unto them afterwards a thing much more uncertain, then
+<pb n="5" facs="tcp:158964:5"/>the promiſe it ſealeth; nay why did not <hi>Peter</hi> repreſent unto thoſe nricked penitenciaries, Acts 2.7. The right uſe of the old ſeale for their preſent conſolation, but peremptorily point them to the uſe of a new ſeal, without acquainting them at all with any abolition of the old; had they been ſeales of one and the ſame Covenant, even one and the ſame Sacra<g ref="char:EOLhyphen"/>ment, but only for change of the Element, as ſome with ſottiſh confidence do averre, then how could he without raſhneſſe in ſuch a trouble of their ſpirits, urge them unto a needles innovation? Nay how did he ſo ſlight the former, as to take no notice of both their confines, nor make them per<g ref="char:EOLhyphen"/>ceive the paſſage from the one to the other, but ſimply ſway their conſci<g ref="char:EOLhyphen"/>ence before he dye, ſettle or ſatiſfie their judgements.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>7</label> If the Spirit of God uſe the promiſe of grace and remiſſion of ſinnes, Gen. 12.3. As the beſt argument to overthrow the Doctrine of circum<g ref="char:EOLhyphen"/>ciſion and the practiſe of i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, then that promiſe of bleſſedneſſe by remiſſion of ſin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Gen. 12.3. Is farre different from that Covenant of Gen. 17, 7, 8. Which was ſealed by circumciſion, verſ. 9, 10, 11. (the reaſon of this propoſition is) for els the falſe teachers might have replied, that we do not overthrow the Goſpell which you preach, but only continue the uſe of the old ſeale. And therefore you alledge againſt us, the 12. of Gen. little to the purpoſe, as if we could conceit, that the promiſe, which was ſealed by circumſition to <hi>Abraham</hi> and his ſeed, ſhould now abrogate the uſe of Circumciſſion, whereby it was ſealed, and upon this erronions ſup<g ref="char:EOLhyphen"/>poſall, that the Covenant of Gen. 17. ſealed by Circumciſion was all one with Gen. 12.3. The Apoſtle had not omitted (according to his duty and uſuall Cuſtome, 2 Tim. 25. (Cor. 9.19) By gentle remonſtrance, to give them full ſatiſfaction, concerning the abolition of the old ſeale, and the introduction of the new, without any ſuch paſſionate clamour againſt the uſe of circumciſion as pernitious, and deſtructive to the Goſpell which he taught Gall. 2, 17, 18. with Gall. 5.10.</p>
+            <p>But the ſpirit doth uſe the promiſe of Grace and remiſſion of ſins as the beſt argument to overthrow the Doctrine of circumciſion and the practiſe of it, as doth appeare by <hi>Pauls</hi> argument,<note place="margin">Aſſum.</note> Gal. 3 8, 9, 10. 13, 14. with Gen. 12.3. His argument is thus, if the free promiſe of bleſſing by remiſſion of ſinnes be received by faith, then the practiſe of Circumciſion is pernitious, which by binding unto the Law, Gall. 5.3. Bringeth under the curſe, Gall. 3.10. To which thoſe our opinioniſts would have repli<g ref="char:EOLhyphen"/>ed; No <hi>Paul,</hi> not ſo, for we hold circumciſion to bee or to have beeen, a ſeale of that bleſſing or righteouſneſſe, which is by ſaith: And if ſo; then ought <hi>Paul</hi> to have ſhewed the abolition, and not to have ſo manifeſtly impunged the very nature and condition of it, as pernitiouſly oppoſite to
+<pb n="6" facs="tcp:158964:6"/>the very Goſpell-promiſe every where; ſo that he maketh that of Gen. 22.18. To be an argument alſo againſt the doctrine, and uſe of Circumciſion, as the underſtanding may obſerve from Gall. 3.16.18.25. with Cor. 4.3.</p>
+            <p>
+               <hi>Ergo,</hi> the promiſe of bleſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dneſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by remiſſion of ſinnes. Gen. 12.3. Is farre different from that Covenant of Gen. 17.7.8. Which was ſealed by Circumciſion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>8</label> That which maketh the Kingdome of heaven to bee, and to have been holden in fee-taile by <hi>Abraham</hi> and his ſeed, and now by the faithfull and their ſeed, is falſe againſt the Scripture: but this opinion maketh even the ſpirituall bleſſings Epheſ. 1.3. to be holden in fee-taile by &amp;c. therefore it is a falſe Commandement againſt the Scripture, the propoſition is proved.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, becauſe the Scripture ſpeaketh only of two generations, the one naturall, and therefore gendreth unto wrath: Epheſ. 2.12.3. The other ſpiriruall and ungendreth to the Kingdome. Iohn 3.5. And therefore rejecteth the former altogether, as no way intituling to the inheritance, though one be borne of the bloud of <hi>Abraham,</hi> Iohn 1.12.13. Neither will it availe them to ſay as Mr. <hi>Perkin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> on Gal. 2. That a man is two wayes conſiderable either as a ſonne of <hi>Adam</hi> and ſo he begetteth Children of wrath, or as a believer, and ſo his faith intitleth his ſeed alſo to the ſame heavenly inheritance, by vertue of the promiſe. Gen. 17.</p>
+            <p>No man doth beget children as a believer,<note place="margin">Anſw.</note> for then every believer even the Eunuch. Acts 8. Should have done ſo, but man propagate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only as the ſonne of <hi>Adam,</hi> and if this promiſe concerne believers as begetting Children. Then though the Children be unlawfully begotten, even baſ<g ref="char:EOLhyphen"/>tard borne, to no earthly Inheritance, by our common Law<g ref="char:punc">▪</g> yet through their parents Faith, and the promiſe they are borne to, an heavenly Inhe<g ref="char:EOLhyphen"/>ritance, from the which they cannot fall but by actuall infidelity or diſo<g ref="char:EOLhyphen"/>bedience, and ſo ſtand in no need of the ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le eſpecially of Baptiſme, which is mearely theoreticall or doctrinall in the very form and Circum<g ref="char:EOLhyphen"/>ſtance of it, till they be able to underſtand, to ſay nothing that this con<g ref="char:EOLhyphen"/>tradicteth the very text Rom. 9 8. Where he maketh a ſpirituall uſe of that tipicall ſingling out the ſeed of <hi>Iſack.</hi> for the land of Canaan, viz. the Children of the fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh are not the Children of God, except they be by the word of promiſe begotten ſpiritually, as <hi>Iſack</hi> was by promiſe borne carnally Gall. 4.28, 29 Neither can any with colour of reaſon contend, that God by his Teſtament thus bequeatheth and ſealleth this bleſſing un<g ref="char:EOLhyphen"/>to them that they ſhall admit and receive with conſent unto all thank<g ref="char:EOLhyphen"/>full
+<pb n="7" facs="tcp:158964:6"/>acknowledgement and return, then it is theirs till they doe reject it; and by conſequence, the ſpirituall bleſsing diſcend upon the ſeed of the Faith<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull, dying before yeares of diſcretion, after the manner of temporall lands holden in a Fee-taile.</p>
+            <p>That which raiſeth the preferment of the Jew far above the ſpirits in<g ref="char:EOLhyphen"/>timation, anſwering to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very queſtion concerning the profit of Circum<g ref="char:EOLhyphen"/>ciſion:<label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>9</label> that muſt ne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds be a falſe and erronious conception forced upon the Scripture. Bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke it a ſeal of the Covenant of Grace and Re<g ref="char:EOLhyphen"/>miſſion of ſins, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to raiſe the preferment of the Jew by nature, far above the ſpirits intimation anſwering to the queſtion. For Rom. 3. v. 1.2. Up<g ref="char:EOLhyphen"/>on the queſtio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Iewes advantage, and the profit of of Circumciſion, he replyeth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat the chiefe advantage is, that unto them were committed the O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acles of God, which is a great priviledge, and a ſingular prefer<g ref="char:EOLhyphen"/>ment, a <hi>David</hi> himſelfe con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſeth: Pſal. 147.19, 20. by which meanes alſo the fi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t proffer of Grace was made unto them, Luke 24.46, 47. with Act. 13.46. But all this doth not to the born Iewes ſeal the Covenant of Grace, no more then our having of the Scriptures, doth ſeal Remiſſion of ſins to every ſoul now born in England; whereas the advantage of the Iew, and p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ofi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Circumciſion, by this opinion ſhould have been incompa<g ref="char:EOLhyphen"/>rab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; and not to be paralleld by any outward privildge: in that all born Iewes dying before the ſame or after Circumciſion, were deified and aſſu<g ref="char:EOLhyphen"/>redly ſaved. And ſo that which the Scripture hath hid in God with ſome ap<g ref="char:EOLhyphen"/>parance of the generall hope for conſolation of parents, ſhould have been confirmed unto them by particular aſſurance.</p>
+            <p>Therefore this opinion muſt needs be a falſe and erronious conception forced upon the Scripture, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>10</label> If Circumc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſion be a ſeal of the Covenant of Grace, then the Covenant of G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace is not a Teſtament bequeathing benefit only to all who by Faith admit and rec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive the ſame, but is a part or burthenſome compact hang<g ref="char:EOLhyphen"/>ing upon ſome actuall conditions, abſolutely required: in the not doing or performance whereof, the Covenant becometh voyd and diſanulled to both the parties concerned, Gen. 17.9, 10, 11, 12, 13, 14. in that Co<g ref="char:EOLhyphen"/>venant. And by this reaſon, if <hi>Pauls</hi> beleiving wife have an Idolatrous husband, which will not ſuffer the Infants to be dipped, the Covenant of Grace is diſanulled to them both: And whether ſhee ought to kill her child, let them determine, who plead for bloody violence to be inflicted on ſome by the au<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hrity of <hi>Moſes</hi> his Teſtament Pact. But the Covenant of Grace is no ſuch, but a meer Teſtament, bequeathing freely matter of benefit, to all who receive; and admit it by Faith only: Therefore Circum<g ref="char:EOLhyphen"/>ciſion cannot be a ſeal of that Covenant of Grace.</p>
+            <p>
+               <pb n="8" facs="tcp:158964:7"/>That which neceſſarily imployeth falling from Grace,<note place="margin">Argum.</note> theſe men can<g ref="char:EOLhyphen"/>not deny to be a falſe and wicked opinion.</p>
+            <p>But this conceit,<note place="margin">Aſſump.</note> &amp;c. neceſſarily implyeth falling from grace; for ei<g ref="char:EOLhyphen"/>ther it belongeth to them in generall, <hi>viz.</hi> If they will beleive it, and ſo the promiſe of remiſſion of ſins belongeth to every man alive, Mark 16.15. or it appertaineth to them and their children in ſpeciall: till by actuall unbeleiſe, and diſobedience, they fall away and reject it. And ſo if there be no falling away, all their nation as well as ours, muſt needs have been ſaved. <hi>Ergo,</hi> theſe men cannot deny it to be a falſe wicked opinion, Rom. 9.27. The aſſumption is more evident amongſt us, where all are dipped, by vertue of that Covenant, Gen. 17. becauſe they are <hi>Abrahams</hi> ſeed; which yet they cannot be, except they be born chriſtians: Gal. 3.29. neither young nor old can be <hi>Abrahams</hi> ſeeds, except they be Chriſts firſt.</p>
+            <p>If the Covenant of Grace and Remiſſion of ſins was never intailed up<g ref="char:EOLhyphen"/>on any man and his ſeed,<label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>12</label> but in the whole nature and condition of it, rela<g ref="char:EOLhyphen"/>ting unto faith only in the partakers; then Circumciſion can be no ſeal of that Covenant of Grace.</p>
+            <p>But antecedent,<note place="margin">Aſſump.</note> if true that the Covenant of Grace was never intayled, &amp;c. ſeeing it alwayes relateth unto faith only in all partakers, Gen. 12.3. with Gal. 3.8, 9. Heb. 4. Acts 27.17, 18. Rom. 3.25. Rom. 4.22, 23.24. Heb. 3.14. Now by theſe mens fantaſie, they were made partakers of Chriſt by Jewiſh generation, and circumciſion; as their own Infants are ſuppoſed to be by birth and baptiſme: whereas the Scriptures witneſſes, no promiſe of Grace and Remiſſion of ſins, but only to the perſonall be<g ref="char:EOLhyphen"/>leivers.</p>
+            <p>If here any object,<note place="margin">Acts 10.43.</note> Acts 2.39.</p>
+            <p>I anſwer, that only concerneth the promiſe of the ſpirit; which was re<g ref="char:EOLhyphen"/>vealed by Joel, cap. 2.28. and doth follow the receivall of the Goſpell: Epheſ. 1.13. Gal. 3.14. as ſhall be plainly and clearly proved to any oppoſite, though it need no proofe; being evident from <hi>Peters</hi> whole ſpeech, and the verſe preceding the Text: therefore the conſequence is true alſo, that Circumciſion could not be a ſeale of the Covenant of Grace.</p>
+            <p>Firſt that of <hi>Paul,</hi>
+               <note place="margin">Object.</note> Rom. 4.11. where it is ſtiled a ſeal of the righteouſ<g ref="char:EOLhyphen"/>neſſe of Faith.</p>
+            <p>Firſt,<note place="margin">Anſw.</note> it was not given to ſtrengthen the weakneſſe, but to honour the ſtrength of <hi>Abrahams</hi> Faith. And therefore doth the Apoſtle, Rom. 4. beat them oft from the uſe of circumciſion, as being nothing but a fleſhly badge, bearing witneſſe to the ſpirituall, eminency of <hi>Abrahams</hi> faith, he
+<pb n="9" facs="tcp:158964:7"/>being thereby as it were marked out for an exemplary pattern to all be<g ref="char:EOLhyphen"/>leevers, as father or chiefe of them.</p>
+            <p>Thoſe which are but any whit acquainted with the Greek tongue, doe know <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifieth an exemplary note to make any man or thing illu<g ref="char:EOLhyphen"/>ſtrious, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is uſed in that ſence, to enoble by ſome eſpecial note, to which purpoſe that may be pertinent, Iohn 6.27. God the Father is ſaid to ſeal him, making him illuſtrious by all manner of teſtimonies. Now ponder well that this ſign was not given to him meerly, becauſe he was faithfull, for then it ſhould have been unto <hi>Noah</hi> long before, or at the leaſt to <hi>Lot</hi> now<g ref="char:punc">▪</g> as well as to <hi>Abraham;</hi> much leſſe was it given in any relation to his weaknes<g ref="char:punc">▪</g> ſeeing that he was ſo ſtrong that he ſtaggered not: Rom 4.20. and therefore not as a ſeal to confirm, but as a badge of honour for to credit, as this coherence doth conclude; but though it were a ſpeci<g ref="char:EOLhyphen"/>all favour marking out his faith as exemplary, yet its nature and inſtituti<g ref="char:EOLhyphen"/>on ſheweth that it confirmeth nothing to him and his ſeed, but the land of Canaan: Gen. 13.15. with cap. 17.8, 9, 10. and Pſalm. 105.11. and Acts 7.5.8. where all may obſerve it a ſeal of a covenant concerning an outward bleſſing, Geneſ. 28.41. diſtinct from that Goſpell-pro<g ref="char:EOLhyphen"/>miſe, Geneſ. 12.3. which is received by Faith onely: Gallathians 1.8.9.14. Geneſis 15.5, 6. with Rom. 4.13.18. Gallathians 3.16.19. Now that Circumciſion is no ſeal of the righteouſneſſe of Faith I will prove it byan unanſwerable argument, <hi>viz.</hi> if Circumciſion bea ſeal of the righteouſneſſe of Faith in their ſence, then the Inheritance commeth as well by the Law, as by the Promiſe; the reaſon is, becauſe Circum<g ref="char:EOLhyphen"/>ciſion is nothing: and by conſequence no ſeal at all, except a man keep the Law: Rom. 2.25. 1 Cor. 7.19.</p>
+            <p>But that the Inheritance ſhould any way come by the Law, as by the Promiſe, is moſt contrary to <hi>Paul;</hi> Romans 4.14. where hee ma<g ref="char:EOLhyphen"/>keth all concurrence of the Law inconſiſtent with Faith, and the Pro<g ref="char:EOLhyphen"/>miſe, ſo farre as it concerneth our eternall inheritance. And therefore that ſence is blaſphemouſly contradictory to <hi>Pauls</hi> diſcourſe, and de<g ref="char:EOLhyphen"/>ſtructive to the pure doctrine of Iuſtification; now whereas ſome have conceited that Circumciſion<g ref="char:punc">▪</g> did over and above its ordinary uſe, ſeal to the Iewes in generall, that Chriſt ſhould deſcend of them or their ſeed, in whom only Beleevers ſhould be ſaved, whether they were circumci<g ref="char:EOLhyphen"/>ſed or nor.</p>
+            <p>It ſealed no ſuch matter at all, ſo that if there had been no other Goſpell-promiſe beſides,<note place="margin">Anſw.</note> Geneſis 17. they muſt have ſought ſalvation in the Law, and by the Law onely: Gallathians 5.3. 1 Corinth. 7<g ref="char:punc">▪</g>19. Acts 15.10. Rom. 2.25. ſheweth the perfection of a Beleever, buried
+<pb n="10" facs="tcp:158964:8"/>by dipping into the death of Chriſt, unto which by Circumciſion they could not aſpire unto. The reaſon of <hi>Chamieras,</hi> as is moſt unworthy the wit and judgment of ſo learned and voluminous a writer, for (quoth he) that Covenant whereby God promiſeth to be a God to them and their ſeed, muſt needs be a covenant of grace and remiſſion of ſins, becauſe, (as he thinketh) God cannot be ſo but in Chriſt only.</p>
+            <p>It is apparantly falſe,<note place="margin">Anſw.</note> Pſal 50.1.8.9. there being divers relations where<g ref="char:EOLhyphen"/>by God is ſtiled the God of people, beſides that of remiſsion of ſinnes through Chriſt. Thus he is ſtiled the God of the ſpirit of all fleſh. Numb. 16.22. And as he is ſtiled the Saviour of all men, 1 Tim. 4.10 ſo why not the God of all men, though not by remiſsion of ſins in Chriſt but meerely in relation <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſome other of his works or attributes; eſpecially by this ty<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>call relation wherein he ſo often calleth them his people, when they were his enemies: and hee giving out the bill of divorce againſt them. Hoſ. 4.6. with Mich. 6.3, 4, 5. And had not his outward covenant in ſome ſence intitled them unto God, they could have been no figure fit for enſample to the antitype, even the true Iſrael of God under the new Te<g ref="char:EOLhyphen"/>ſtament: Gal. 6.16. Pet 2.9. 1 Cor. 10.6.11. with Jer. 13.11. where you may note alſo that thoſe who would make circumciſion a figure of dip<g ref="char:EOLhyphen"/>ping, gaine nothing by it for be<g ref="char:punc">▪</g> ſprinkling of Babies; for then it will fol<g ref="char:EOLhyphen"/>low, that as none were to be circumciſed, but the ſeed of <hi>Abraham;</hi> with Srangers, Proſel<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, and Slaves b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nght with mony: ſo none are to bee dipped but thoſe who beleive the doctrine of the Goſpell, Mark 16.17. or elſe proſeſſe the ſame Faith. And as the ſeed of <hi>Iſaack</hi> and of <hi>Iacob</hi> on<g ref="char:EOLhyphen"/>ly were called to inhe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t in Canaan, ſo thoſe only who have beleived through grace, Acts 18.27. as the Eunuch, Acts 8.38. and not ſuch as <hi>Si<g ref="char:EOLhyphen"/>mon Maguc,</hi> Acts 8 13. who counterfeit the ſame confeſsion, ſhall inhe<g ref="char:EOLhyphen"/>rit the heavenly Canaan. I hope the godly wiſe will conceive, that though the Covenant were the ſame, and the Sacrament alſo; but only for change of the Element (as the Baby ſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inklers bear people in hand) ſo authori<g ref="char:EOLhyphen"/>zing the prophane abominable abuſe of Zaedobipriſme, by the command for circumciſion; yet upon that c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nceit (if it were granted) no ſuch concluſi<g ref="char:EOLhyphen"/>on can truly be drawn to the abſolute diſhonour of Chriſt, and contradicti<g ref="char:EOLhyphen"/>on of his expreſs Will and Teſtament. But that foundation being rotten and falſe, then all the building muſt fall. And I doubt not but all men of appre<g ref="char:EOLhyphen"/>henſion will eaſily diſcern from the precedent arguments, how the Apo<g ref="char:EOLhyphen"/>ſtle in all his diſputations againſt circumciſion yieldeth it. And by conſe<g ref="char:EOLhyphen"/>quence that covenant of Geneſis the 17. As a priviledge pecultar to the naturall ſeed of Abraham, Rom. 2.17 25. the chieſeſt profit whereof was their, being born and bred under the Oracles of God, Rom. 3.1.2.</p>
+            <p>
+               <pb n="11" facs="tcp:158964:8"/>But that ſpirituall (ſo different from the carnall) Gen. 17. Acts 7. Cove<g ref="char:EOLhyphen"/>nant of bleſsing or righteouſneſſe by remiſsion of ſins, <hi>Gen.</hi> 12.3. with cap. 15.6. <hi>Paul</hi> alleadgeth and proveth promiſcuouſly, or without diffe<g ref="char:EOLhyphen"/>rence, Rom. 3.21, 22, 23, 24, 25. appertaining unto the uncircumciſed alſo, Rom, 4.3.4, 5, 6, 7, 8, 9, 10, 11, 12. wherein he leaveth <hi>Abraham</hi> no ſeed but ſpirituall, Gal 3.7, 8.29. acknowledging neither naturall Jew nor ſonne of <hi>Abraham,</hi> but only thoſe who are made ſo by the will of God through the word of truth, Iohn 1.12, 13. with Iames 1.10. compa<g ref="char:EOLhyphen"/>red with Rom. 2.28, 29. Luk. 19.9. And as the Scripture vehemently rejecteth all concurrence of works in Iuſtification ſo doth it as plainly ab<g ref="char:EOLhyphen"/>tenounce all Birth priviledge: Iohn 1.13. Eph. 2. Iohn 3.5.6. as no way intitling to, much leſſe in ereſſing in the benefit of the covenant of grace, or promiſe of ſalvation. Now to convince any conſiderate man of this, there is one or two argument truly, a Podeſcticall and as unanſwerable as any of the former.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>13</label> That which by its own nature and uſe was an intollerable yoak both to the Iewes and to their fore fathers, that could never in its true nature and uſe be a ſeal of the righteouſneſſe of Faith, or of the covenant of grace, or remiſsion of ſinnes.</p>
+            <p>The undeniable reaſon of this Propoſition is, from a principall granted by all, who have any light either of naturall reaſon or dialect call learning; <hi>oppotſia non poſſunt eidem attribui, ſecundum idem, ad idem, codem tem<g ref="char:EOLhyphen"/>pore;</hi> things oppoſite: <hi>viz.</hi> to ſeale righteouſneſſe and forgiveneſſe of ſinnes, and to bind unto the Law, Gal. 5.3. can never bee attributed to one and the ſame thing; as namely circumciſion, <hi>Secundem eidem:</hi> in reſpect of one and the ſame part, <hi>viz.</hi> the ſpirit or conſcience; <hi>ad idem:</hi> in relation to one and the ſame perſons, they are therefore Fathers, <hi>eodem. tempore</hi> at one and the ſame time; whether after the Law, or under it.</p>
+            <p>But circumciſion in its true nature and uſe,<note place="margin">Aſſunsp.</note> was an intollerable yoak both to the Iewes, and their fore<g ref="char:punc">▪</g> fathers. Acts 15.10. <hi>Ergo,</hi> it could ne<g ref="char:EOLhyphen"/>ver be in its true nature and uſe, any ſeal of righteouſneſſe, or of the cove<g ref="char:EOLhyphen"/>nant of grace, or remiſsion of ſins; for then it ſhould be matter of benefit, and not matter of burthen, which the Scripture ſetteth in oppoſition in<g ref="char:EOLhyphen"/>compatible; making them to be really, and eſſentially different. For what is by its own nature a burthen or bondage to the ſpirit, is formally diffe<g ref="char:EOLhyphen"/>rent from that which is a matter of pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e liberty and benefit to the ſpirit; as the ſeale of righteouſneſſe is, and muſt alwayes be, Rom. 6.4.14, 15. compared with Rom. 7.1.4.5<g ref="char:punc">▪</g>6.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>14</label> If the Covenant or Law o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cumciſion were the only thing whereby boaſting was occaſioned, and that law of Faith (which by dipping is con<g ref="char:EOLhyphen"/>firmed
+<pb n="12" facs="tcp:158964:9"/>to beleevers, the only thing whereby boaſting was excluded; then that Covenant of Gen. 17. cannot be the ſame with that new Teſtament of grace and remiſſion of ſins, whereof Chriſt is the mediatour, Heb. 8.</p>
+            <p>For then circumciſion ſhould not have occaſioned (as <hi>Paul</hi> granteth) it did,<note place="margin">Reaſon.</note> boaſting, but have utterly diſanulled all diſdain towards the un<g ref="char:EOLhyphen"/>circumciſed; as the law of faith, and covenant of grace, are declared to doe: Acts 10.15.28. with cap. 15.9. where <hi>Peter</hi> affirmeth circum<g ref="char:EOLhyphen"/>ciſion to make ſuch a difference, as the law of faith doth deſtroy, aboliſh, and diſanull; Rom. 3, 27.</p>
+            <p>But the covenant or law of circumciſion,<note place="margin">Aſſump.</note> was the only thing whereby boaſting was occaſioned, Rom. 2.17.25. with cap. 3 12. and the law of faith the only thing whereby boaſting was excluded, Rom. 3, 27. There<g ref="char:EOLhyphen"/>fore the covenant of Geneſis 17. cannot be the ſame with that covenant or new Teſtament, whereof Chriſt is the Mediatour.</p>
+            <p>If any object that Chriſt is called the Miniſter of circumciſion,<note place="margin">Object.</note> Ro<g ref="char:EOLhyphen"/>mans 15.18.</p>
+            <p>He was made the ſervant of circumciſion,<note place="margin">Anſw.</note> when he was made of a wo<g ref="char:EOLhyphen"/>man, and ſo made under the law, Gallathians 4.4, 5. that ſuffering, Gal<g ref="char:EOLhyphen"/>lathians 3, 13. as a curſed ſinner by the imputation of our iniquities, he might confirm the truth of God, and the promiſes made to the Fathers; Geneſis 12.3. Acts 13.32. with Hebrewes 9.14, 15. Romans 15.8.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>15</label> Thoſe two covenants which differ in the object. Secondly in the mat<g ref="char:EOLhyphen"/>matter. Thirdly in the forme. Fourthly in the end. Fiftly in the effect; thoſe are not onely (as ſome grant) really, but formally and effectually different.</p>
+            <p>But the covenant of Geneſis 17. which is ratified by circumciſion,<note place="margin">Aſſump.</note> dif<g ref="char:EOLhyphen"/>fereth from that of Ier. 31.33, 34. with Heb. 8.6. which is confirmed to every beleever by Baptiſme. Gallathians 3.17, 27. with Iſai 42.6. and Acts 2 38 cap. 22 16 Firſt in the object, for that of Geneſis 17. reſpe<g ref="char:EOLhyphen"/>cteth the carnall ſeed in their generations, verſe 7 9. But that Geneſis 12 13. and Ier. 31 reſpecteth the ſpirituall ſeed only; Gallathians 3.7, 8, 9: Secondly in matter for that of Geneſis 17 containeth an outward bleſsing, concerning the poſſeſsion of and protection in an earthly inheritance, verſe 8. cap. 28.4. Acts 7.5.6. whereas this Covenant of grace, Iſa. 42.6. con<g ref="char:EOLhyphen"/>taineth ſpirituall bleſsings only<g ref="char:punc">▪</g> Epheſ. 13. even Remiſsion of ſins; Rom. 4.6, 7, 8, 9. the free donation of an undefiled inheritance following upon the ſame, Acts 26.18. Thirdly in the forme, for that of Gen. 17. is onely <hi>Pactum,</hi> a certain pact ſuſpended altogether upon a legall duty or condi<g ref="char:EOLhyphen"/>tion, exacted under penalty of ſevere temporall puniſhment, Gen. 17.10, 11, 12, 14. whereas this is <hi>Teſtamentum,</hi> a Teſtament bequeathing all be<g ref="char:EOLhyphen"/>nefit,
+<pb n="13" facs="tcp:158964:9"/>Heb. 8.12. but requiring nothing beſides faith which it alſo beget<g ref="char:EOLhyphen"/>teth, Acts 26.18. with cap. 18.27.</p>
+            <p>Fourthly in their ends, for that of Gen. 17. was together a nationall Church, Deut. 4.34. with v. 37. Ier. 13.11. God hath aſſayed to take un<g ref="char:EOLhyphen"/>to a nation, &amp;c. And becauſe he hath loved their Fathers, therefore he hath choſen their ſeed called the Church in the wilderneſſe, Acts 7.38. which people were carnally or typically holy, Exod. 19.6. with Eſai 9.2. Acts 10.28. appointed to a typicall land which God had eſpyed out for them, Ezek 20.5, 6. holden under the carnall rites and typicall ordinances impoſed on them by way of burthen, till the time of reformation, Heb 9.10. with Gal. 4.9. where circumciſion is reckoned as a beggetly Element, that ſo they might be a type of figure of every true viſible Church of Chriſt under this new Teſtament, Deut. 7.6. with Eph. 1.3.4.</p>
+            <p>But the end of this Covenant is to gather viſible Churches of Chriſt, which being begotten by the Goſpell, are by dipping entred into the communion of Saints; Holden by any viſible ſociety of beleevers meet<g ref="char:EOLhyphen"/>ing in one place, as you may ſee in the Church of Corinth: Chap. 6.11. with cap. 12, 13. and cap. 11, 20. cap. 14.23. the Churches of <hi>Galatia</hi> which were after the ſame manner begotten, Galathians 4 26.31. And thoſe who are thus begotten, are by dipping admitted to all the benefits of a viſible Communion: Acts 2.41, 42. which viſible Churches through the waſhing of water and the word, become true Antitypes really anſwerable to the nation of the circumciſed: and are, Galathians 6 16 ſtiled the true <hi>Iſrael</hi> of God; yea a choſen Generation, and an holy nation; 1 Pet. 2.9. which being born of the mortall ſeed, are begotten to an un<g ref="char:EOLhyphen"/>defiled inheritance as appeareth from ſuch places, 1 Peter 2.9. with chap<g ref="char:EOLhyphen"/>ter 1.23. and 3, 4. Galathians 6.16. Epheſians 5.26, 27. Therefore were they a figurative people full of types for examples to any Church of the Gentiles, which had beleeved through Grace: 1 Corinthians 10 6 with Acts 8.37.</p>
+            <p>Laſtly, they differ in the effect; for that of Geneſis 17 depend<g ref="char:EOLhyphen"/>ing on circumciſion is a beggerly rudiment, Galathians 4.9. which by binding unto the Law, Galathians 5.3. gendereth unto bondage onely, Gallathians 4 25. never yeelding any ability to performe; whereas that of Ieremiah 31 33, 34 is the very ſame with Galathi<g ref="char:EOLhyphen"/>thians 4 26. which following with Grace, gendereth unto Liberty; Galathians 4 31. from all guilt of ſinne and legall bondage: Gala<g ref="char:EOLhyphen"/>thians 5 1. with Hebrewes 10 15, 16, 17, 18. unto which the Law of Circumciſicion engageth, yea and this miniſtreth the ſpi<g ref="char:EOLhyphen"/>rit,
+<pb n="14" facs="tcp:158964:10"/>Gal. 3.8, 9, 14. ſo that every one to whom this Covenant is confir<g ref="char:EOLhyphen"/>med by the Ordinance of dipping according to Chriſts Will and Teſta<g ref="char:EOLhyphen"/>ment (<hi>Non ponenti obicem,</hi> as they ſay) if he be no hypocrite, then every ſuch perſon ſo dipped hath truly put on Chriſt, Gal. 3.27. is waſhed from all his ſins; juſtified, and ſanctified: Rev. 1.5. with 1 Cor. 6.11. and hath ſome meaſure of faith. Rom. 12.3. according to the true tenour of that Covenant, which God who cannot he hath confirmed in Chriſt; ſo that where there is a lawfull ſubject of Baptiſme voyd of hypocriſy, there is a Iew in heart and ſpirit, Rom. 2 29. to whom according to Gods purpoſe and grace, 2 Timothy 19. all the benefits of the new Covenant are ab<g ref="char:EOLhyphen"/>ſolutely confirmed by dipping, which is therefore truly called the laver of Regeneration, and the renewing of the Holy Ghoſt; Titus 3.5. being al<g ref="char:EOLhyphen"/>wayes (except the ſubject be unlawfull, or an hypocrite) accompanied with renovation of mind, as appeareth from Gal. 3.27, 28. with Col 3 17. But though the ſubjects of Circumciſion be lawful, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd without hypocriſy; yet doth it not make him a Iew, in heart and ſpirit: much leſſe doth it ab<g ref="char:EOLhyphen"/>ſolutely confirme the benefit of the new Covenant unto him, Rom. 2.28. But here we need not require the ſubject to be without hypocriſy, for the arranteſt and moſt apparent hypocrite of the whole nation was a proper lawfull ſubject of that Ordinance of Circumciſ. Ioh. 5.6, 7, 8. compared with that of Ier. 7.25, 26 <hi>Ergo,</hi> theſe 2 Covenants of Gen. 17. Ier. 31. are not only really, as ſome Sophiſters grant and ſay, but formally &amp; eſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntiall<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> different.</p>
+            <p>By this laſt argument any may underſtand how groſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly they pervert the words of the living God, Ier. 23. even of the Lord Ieſus Chriſt, our only God and Saviour; who would have the Commiſsion of Chriſt, Matth. 28. Mark 16. to be a continuation of that Covenant, Gen. 17. by which com<g ref="char:EOLhyphen"/>mand only the Miniſters of Chriſt have power and authority to beſprinkle babes, ſo blaſphemonſly exalting the ſervant above? his Lord, in making him to ſupply the effect of Chriſt Ieſus his Teſtament, by directing to the due adminiſtration of the Ordinance of dipping, in the houſe of him who is the Sonne and only Maſter; Heb. 3.1, 2, 3.5, 6. where you ſee verſe 5. that Chriſt was to interpret <hi>Moſes,</hi> but why? or how <hi>Moſes</hi> ſhould tell us the meaning of Chriſts Teſtam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt, I could never yet underſtand. Againe, why did the ſpirit of Chriſt which was in <hi>Ieremiah,</hi> 1 Peter 11, 12<g ref="char:punc">▪</g> tel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us of a new Covenant; Ier. 31.33.34. And yet never once inſinuate how it was, but a renovation of the old Covenant. Gen. 17. with a little alterati<g ref="char:EOLhyphen"/>on in the change of the Element only: <hi>viz.</hi> dipping for circumciſing, up<g ref="char:EOLhyphen"/>on which the Apoſtle <hi>Paul</hi> never putteth himſelfe to buſineſſe: Gal. cap. 1. cap. 2. cap. 3. cap 4. cap. 5. cap. 6.17. Though upon his fooliſh ſuppo<g ref="char:EOLhyphen"/>ſall, it had been the only point requiring his pains for clear proof againſt the oppoſite Iewes,</p>
+            <p>
+               <pb n="15" facs="tcp:158964:10"/>Thirdly, when Chriſt aſcended on high and gave gifts, &amp;c. for the ga<g ref="char:EOLhyphen"/>thering or inſtauration of the Saints: Eph. 4.8.11, 12. By what Spirit, Reaſon, or dialecticall dreame, can any conclude that the true Miniſters of Chriſt, without and againſt their Maſters commiſsion, vvere obl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged to make Saints by beſprinkling the babies of all beleeving Gentiles; by that command of Geneſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 17.9, 10. If after examination vve ſtill remain blin<g ref="char:EOLhyphen"/>ded by ſuch a ridiculous babble, indeavouring to bury the truth, by ſhuffe<g ref="char:EOLhyphen"/>ling plain things into difficulty. Then ſhall I ceaſe to vvonder at thoſe vvho are ſo taken vvith the vain and fantaſticall ſuperſtitions of Popery, or elſe be ſealed vvith <hi>Mahomets</hi> fopperies.</p>
+            <p>The Church of <hi>Epheſus</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s commended, Rev. 2.2. for trying thoſe that ſay they are Apoſtles, and are not; oh that our Profeſſours would try their Miniſters whether they come in by Scripture rules, and obſerve Scripture rules and commands: if they doe not they are falſe Miniſters, and lyers againſt the truth. And to that end let them prove that thoſe doctrines they teach, are the doctrines that Chriſt and his Apoſtles taught and practiſed, or they are other if not contrary; and then ſee the danger of teaching them, Gal. 1.8, 9. And that Baptiſme is a doctrine, ſee Heb. 6.2. we ought to avoyd thoſe that bring doctrine contrary to that received from Chriſt and his Apoſtles, Rom. 16.17.18. we are to contend for the faith once delivered to the Saints, Jude verſe 3. Chriſt bids teach and baptize, Matth. 28.19. They will baptize, and then teach. Chriſt ſaith, he that beleiveth and is baptized, Mark 16.16. They will baptize and then make them beleeveyrs if they can. Chriſt ſaith, teaching them to obſerve what<g ref="char:EOLhyphen"/>ſoever I command; Matth. 28.20. They will obſerve what is right in their own eyes, <hi>Philip</hi> ſaith to the Eunuch deſiring to be baptized of him, if thou beleiveſt, thou maiſt; Acts 8.37. So faith is required of thoſe that are to be baptized which children cannot have in an ordinary way: Rom. 10. 14.17. Now children are not capable of being wrought upon by the word, and for any ſecret work, ſecret things belong to God, but things re<g ref="char:EOLhyphen"/>vealed to us and our children.</p>
+            <p>See 2 Epiſt. John v 7. and from v 5.10. v. 11. who now is an Antechriſt? the Papiſts as well as we confeſſe Chriſt to become in the fleſh, who then deny it? they that doe not ſet up Ieſus the Chriſt K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, Prieſt, and Prophet of his Church; will not be ruled by his lawes, ſubmit not to his teaching, make him not the only Prieſt and ſacrifice, theſe deny Chriſt to be come in the fleſh, and therein are Antichriſtian. 1 Iohn 4.3. The Papiſts deny him in his Prieſtly office, and I wiſh too many o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers doe not in his Propheti<g ref="char:EOLhyphen"/>call and Kingly office; ſee the danger of it, Deut. 18.18, 19 Acts 3.23. Luke 19.17, It is a fearfull thing to fall into the hands of the living God, Heb. 12.29.</p>
+            <p>
+               <pb n="16" facs="tcp:158964:11"/>Oh that the Lord would perſwade his people to ſearch the Scriptures diligently, that they may not hang their religion upon any creature ſo long as I did, leaſt they ſmart ſo ſeverely for it as I have done; for he will not only render vengeance to them that know him not, but to them which obey him not; 2 Theſſalonians 18. The Lord in mercy awaken his people for Chriſt his ſake, AMEN.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>1</label> That which makes the Traditions of men of equall authority with the Law of God, ought in no wiſe to be; Matthew 15 6 Mark 7 7. But the Baptiſme of Infants, thoug of beleeving parents doth ſo, <hi>Ergo,</hi> That ought not to be; The Minor is thus provided: That which is an action of Religion performed, and not one jot or tittle of the word requiring the ſame, that makes the traditions of men of equall authority with the Law of God: but the Baptiſme of Infants, though of beleevers, is an action of Religion ſuppoſed to be performed, and not one jot or title of the word requiring the ſame: <hi>Ergo,</hi> the Baptiſme of infants though of beleevers, makes the traditions of men of equall authority with the Law of God, and conſequently ought in no wiſe to be.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>3</label> Every affirmative command of Chriſt hath its negative, ſo that who<g ref="char:EOLhyphen"/>ſoever Chriſt hath commanded to be baptized ought ſo to be, and if o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers prohibited: but the affirmative command of Chriſt to his Apoſtles, Mat. 28.18. in that they ſhould teach all nations baptizing them, (that is thoſe that are taught) by themſelves, or ſome other: <hi>Ergo,</hi> The Apoſtles were prohibited from baptizing any that were not firſt taught, if the Apoſtles were prohibited in the negative of Chriſts command touching Baptiſme from baptizing, any that were not firſt taught either by themſelves or others, then ought not the infants no not of beleevers, to be baptized, becauſe the Apoſtles or other Miniſters could not, nor cannot know them to be ſo taught in their infancie; ſeeing they make no profeſſion of faith and repentance. But the Apoſtles were prohibited from baptiz<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng any that were not firſt taught, either by themſelves, or other<g ref="char:punc">▪</g> in the negative of Chriſts command touching Baptiſme, by conſequence of the former argument: <hi>Ergo,</hi> The infants though of beleevers, ought not to be bap<g ref="char:EOLhyphen"/>tized.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg </seg>3</label> That which overthrowes the nature of the Covenant of Grace, ought in no wiſe to bee: But the baptiſme of infants, though of belee<g ref="char:EOLhyphen"/>vers, doth ſo: <hi>Ergo,</hi> the Baptiſme of infants ought in no wiſe to be. The proof the minor. That which is adminiſtred upon a ſuppoſed intereſt in the covenant of Grace without Faith in the perſon ſo intereſted that over<g ref="char:EOLhyphen"/>throwes the nature of the covenant of grace, becauſe perſons have intereſt therein no otherwiſe then by Faith, Romans 4.16. Galla<g ref="char:EOLhyphen"/>thians
+<pb n="17" facs="tcp:158964:11"/>3.9.29. any thing elſe concluded ſo, makes the promiſe or cove<g ref="char:EOLhyphen"/>nant void, Rom. 4.14. Gal. 3.18 But the Baptiſme of infants though of beleevers, is adminiſtred upon a ſuppoſed intereſt in the covenant of grace; without faith in the perſon ſo intereſted, (<hi>viz</hi> the faith of their parents) <hi>Ergo,</hi> The Baptiſme of infants, (though of beleevers) overthrowes the na<g ref="char:EOLhyphen"/>ture of the covenant of grace, and conſequently ought in no wiſe to be.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>4</label> That which overthrows the nature of Chriſts true viſible Church, ought in no wiſe to be. But the Baptiſm of infants, though of beleevers doth ſo. <hi>Ergo,</hi> it ought in no wiſe to be. If the matter of the church be only regenerat perſons, and the matter of the viſible Church ſuch only as appeare ſo by the profeſ<g ref="char:EOLhyphen"/>ſion of faith and repentance, then to baptize infants; is to contradict this, and to overthrow the nature thereof; ſeeing they are borne in ſinne and make no appearance to the contrary: but that they ſo remain. But the matter of the Church are onely regenerate perſons, Iohn 3.3.5. and the matter of the viſible Church only ſuch as appeare ſo by the profeſſion of faith and repentance, as all the Epiſtles of <hi>Paul</hi> written to the Churches doe prove: Rom. 8.15. 1 Cor. 4.15. as theſe inſtances inſtead of many doe make it appear. Therefore to baptize infants (though of beleevers) is to overthrow the nature thereof, and conſequently ought in no wiſe to be.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>5</label> That which makes Religion ſubſiſt in the deed done now in the time of the Goſpell, ought in no wiſe to be, Phil. 3.3. Iohn 4.23.24. But the Baptiſme of infants, though of beleevers doth ſo, <hi>Ergo,</hi> it ought in no wiſe to be The minor is thus proved: That which is an action of Religion done, and no faith in the perſon of the doer, required in the doing of that thing, that makes Religion to ſubſiſt in the deed done; but the Baptiſme of infants, though of beleevers, is an action of Religion performed, and no faith required in the perſon of the doer, in the doing of that thing: <hi>Ergo,</hi> the Baptiſme of infants, though of beleevers, makes Religion to ſubſiſt in the deed done in the time of the Goſpell, and conſequently ought in no wiſe to be.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>6</label> That which reviveth Iudaiſme, and ſo denieth Chriſt to bee come in the fleſh, ought in no wiſe to be; 1 Iohn 4.3. 2 Iohn 7. But the Bap<g ref="char:EOLhyphen"/>tiſme of Infants, though of beleevers doth ſo, therefore, &amp;c. The ſecond Propoſition proved thus.</p>
+            <p>That practice which is grounded upon the typicall ſeed, which ty<g ref="char:EOLhyphen"/>ped out Chriſt the true promiſed ſeed, and ceaſed at his coming: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat practice now in reſpect of the ground of that practice, reviveth Iudaiſme in the Type, and denieth Chriſt the truth of the type, to become in the fleſh. But the Baptiſme of infants, though of beleevers is grounded upon the typicall ſeed which typed out Chriſt the true promiſed ſeed, and ceaſed
+<pb n="18" facs="tcp:158964:12"/>at his coming, Gal. 3.16.19. Therefore that being practiſed, now revi<g ref="char:EOLhyphen"/>veth Iudaiſme in the type, and denyeth Chriſt the truth of the type to become in the fleſh, and conſequently ought in no wiſe to be.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>7</label> That which makes the world and the Church all one, and confounds the diſtinction that ought to be betwixt them, ought in no wiſe to be, Col. 4.5. 1 Pet. 2.12. Col. 2.20 2 Cor. 6.14. But the baptiſme of Infants though of beleevers doth ſo: therefore it ought not to be. The ſecond propoſition is thus proved, thoſe which adminiſter the ſpeciall privi<g ref="char:EOLhyphen"/>ledge, the Ordinance of entring perſons into the Church, from common cauſes which doe belong to the world, as well as to the Church, doe make the world and the Church all one, and confound the diſtinction that ought to bee betwixt them. But to baptize infan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s though of belee<g ref="char:EOLhyphen"/>vers, is to adminiſter the ſpeciall priviledge, the ordinance of entering perſons into the Church, from common cauſe which doe belong to the world, as well as to the Church; (to wit) the generall offer of promiſe, Matth. 28.18. Acts 2.39 which is to be offered to every man and woman in the world, Mark 16.15. or elſe the being borne of beleeving parents, which agrees to <hi>Iſmael</hi> and <hi>Eſau</hi> as well as to <hi>Iſaack</hi> and <hi>Iacob;</hi> and all in this reſpect being bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fleſh, born in ſin and children of wrath, Iohn 3.6. Pſal. 51.3. Eph. 2.3. Therefore to baptize infants, though of beleevers, is to make the world and the Church all one, and confounds the diſtincti<g ref="char:EOLhyphen"/>on that ought to be betwixt them, and conſequently ought not to be.</p>
+            <p>But circumciſion,<note place="margin">Object.</note> the ordinance of entring perſons into the Iewiſh Church, was adminiſtred upon perſons from the ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me common cauſe a<g ref="char:EOLhyphen"/>bove, mentioned; and yet it did not make that Church and the world all one, nor yet confound the diſtinction that was betwixt them, and the world, therefore the conſequence doth not follow.</p>
+            <p>The Church of the Iewes did not differ from the world,<note place="margin">Anſw.</note> in the ſame cauſes that the chriſtian Church doth: for they were a nation ſeparated and ſet apart by God by the covenant of circumciſion, Acts 7.8. from all other nations; to worſhip at <hi>Ieruſalem,</hi> Deut. 7 6, 7, 8. and 12.6.13.14. Iohn 4.20. But the chriſtian Church are part of the ſame nation, begot<g ref="char:EOLhyphen"/>ten and born by the immortall ſeed the word and ſpirit of God, Iohn 3.3.5. Iames 1.18. 1 Pet. 1.23. to the ſaith of the truth. Rom. 11.20. Gal. 3.26. by which only they have right to baptiſme, Acts 8.37. and 10.47. and 11.17. and are to ſhine as lights before the world in the places where they live, Ph. 2.15.16. 1 Pet. 2.12. And hence it followeth, that although circumciſion according to Gods command, did from ſuch common cauſes enter perſons into the Church, and yet did not confound the diſtinction, they being a diſtinct nation from the reſt of the world; yet, if perſons of the
+<pb n="19" facs="tcp:158964:12"/>ſame nation without any command from God be baptized, and thereby entered into the Church from common cauſes belonging to the world, ſuch as are above mentioned: That neceſſarily makes the Church and the world all one and confounds the diſtinction that ought to bee betwixt them, and therefore the objection from circumciſion is nothing to hinder the former conſequence, but that it remaineth firm and ſound.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>8</label> That which unites perſons with the Church of <hi>Rome,</hi> and <hi>Papiſts;</hi> ought in no wiſe to be, Rev. 18.4. But the baptiſme of infants, though of belee<g ref="char:EOLhyphen"/>vers, doth ſo: therefore it ought in no wiſe to be. The ſecond Propoſiti<g ref="char:EOLhyphen"/>on is thus proved, whereſoever the baptiſme is one, the Church and peo<g ref="char:EOLhyphen"/>ple are one; But the <hi>Papiſts</hi> and <hi>Romes</hi> baptiſme, is one with the infants baptiſme, though beleevers. Therefore the baptiſme of infants makes one with the Church of <hi>Rome</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p>That the <hi>Papiſts</hi> and <hi>Romes</hi> baptiſme, is one with infants baptiſme, though of beleevers; I prove becauſe they baptize infants, and there be ſome beleevers amongſt them, elſe God would not call them from them, Rev. 18.4. Whoſe infants are there baptized; but eſpecially becauſe there is no difference in infants, as infants, unleſſe God make ſome difference; now there is no difference known between the beleevers infants, and the <hi>Papiſts</hi> infants: and we are all born <hi>Papiſts</hi> by nature, and what hinders that we are not all <hi>Papiſts?</hi> but converſion, or education, or outward re<g ref="char:EOLhyphen"/>ſtraint, and what was it that brought all to be <hi>Papiſts</hi> at firſt, from Apoſtoli<g ref="char:EOLhyphen"/>call, to be Apoſtaticall; but the baptizing of infants? whereby religion came into act before it was wrought in the heart, and ſo they became chriſtians in name, and were indeed againſt Chriſt in nature; and ſo were <hi>Antichriſtum,</hi> and ſo were a Church of Chriſt in name, and a great one too: yea. a catholick one though againſt Chriſt, and ſo <hi>Antichriſtian</hi> in na<g ref="char:EOLhyphen"/>ture; and thus they looking upon one Miniſter as chiefe, whom they made <hi>Pope,</hi> he muſt needs be Chriſts <hi>Vicar</hi> in name, though hee were againſt Chriſt indeed: and ſo the <hi>Antichriſt</hi> who when they had made him, they muſt needs adore and worſhip him, and all the world wonders and worſhips this beaſt; ſo hee compels all by fraud and force to bee of his Church, both great and ſmall: Rev. 13.16. And beſides, all that are bap<g ref="char:EOLhyphen"/>tized, are ſuppoſed to be beleevers, but all <hi>Papists</hi> are ſuppoſed to be bap<g ref="char:EOLhyphen"/>tiſed; Therefore all <hi>Papiſts</hi> are ſuppoſed to be beleevers. And then to baptize the infants of <hi>Papiſts,</hi> is to baptize the infants of beleevers, and and there is no difference in baptiſme then one in Church fellowſhip with them which ought in no wiſe to be; therefore infants, no not of belee<g ref="char:EOLhyphen"/>vers, ought not to be baptized.</p>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
